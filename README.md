@@ -50,12 +50,21 @@ Cluster Profiling:
 
 
 Results:
+
 •	K-Means clustering chosen for its higher accuracy compared to other methods.
+
 •	Marketing labels assigned to each cluster for targeted campaigns.
+
 •	Insights derived from visualizations aid in creating personalized marketing strategies.
+
 Conclusion:
+
 •	The project successfully utilizes machine learning clustering techniques for customer segmentation. The derived marketing labels provide actionable insights for businesses to tailor their strategies based on customer profiles. The visualizations enhance the interpretability of the clusters, making it easier for stakeholders to understand and implement targeted marketing campaigns.
+
 Future Work:
+
 •	Explore additional clustering algorithms for comparison.
+
 •	Incorporate more features for a comprehensive customer segmentation.
+
 •	Continuously update and refine marketing labels based on ongoing customer data.
